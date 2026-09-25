@@ -1,0 +1,5 @@
+numpy
+opencv-python
+streamlit
+# Used only by the older experimental YOLO script (detector.py).
+ultralytics
