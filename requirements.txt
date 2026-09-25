@@ -1,5 +1,7 @@
 numpy
-opencv-python
+opencv-python-headless
 streamlit
 # Used only by the older experimental YOLO script (detector.py).
 ultralytics
+pandas
+pillow
